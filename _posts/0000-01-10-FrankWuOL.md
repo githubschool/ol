@@ -1,9 +1,10 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to GIT training, FW!"
 ---
 
-Caption here
+First change from FW.
+Try git diff
 
 ![boxertocat](https://octodex.github.com/images/boxertocat_octodex.jpg)
 {: .center}
