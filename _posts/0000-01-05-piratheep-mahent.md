@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Piratheep's Slide"
 ---
 
-Caption here
+Awesome! cat.. cooool ....
 
-![skitchtocat](https://octodex.github.com/images/skitchtocat.png)
+![skitchtocat](https://octodex.github.com/images/jetpacktocat.png)
 {: .center}
