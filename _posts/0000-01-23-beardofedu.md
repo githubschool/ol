@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "beardofedu's slide!"
+title: "beardofedu's awqesome slide!"
 ---
 
 Going to New Orleans is a blast!
