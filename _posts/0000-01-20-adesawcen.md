@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Eddie Cen slide deck!"
 ---
 
 Caption here updated by Eddie on GIT Bash
