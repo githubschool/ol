@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "mchauhan's slide deck!"
 ---
 
 I can't find new picture of Mardigras
