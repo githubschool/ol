@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Madhavi's slide!"
 ---
 
-CHANGING CAPTION - AWESOME
+CHANGING CAPTION - MONA
 
-![cherryontop-o-cat](https://octodex.github.com/images/cherryontop-o-cat.png)
+![cherryontop-o-cat](https://octodex.github.com/mona-lovelace)
 {: .center}
