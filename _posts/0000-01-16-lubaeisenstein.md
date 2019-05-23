@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to  Luba's deck!"
 ---
 
 Caption here - new location line 6
