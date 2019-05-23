@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to my page with the cherry image!"
 ---
 
 Cherry on top image!
