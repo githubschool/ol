@@ -5,8 +5,7 @@ title: "Welcome to our slide deck!"
 
 Caption here
 
-![dodgetocat](https://octodex.github.com/images/dodgetocat_v2.png)
-{: .center}
+
 
 
 SergeiKapran...
@@ -18,7 +17,7 @@ updating file
 
 ![orderedlistocat](https://octodex.github.com/images/orderedlistocat.png)
 {: .center}
-now two cats
+now one  cat
 
 
 
