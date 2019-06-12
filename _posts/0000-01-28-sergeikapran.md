@@ -16,6 +16,10 @@ another commit
 for Git Training 
 updating file
 
+![orderedlistocat](https://octodex.github.com/images/orderedlistocat.png)
+{: .center}
+now two cats
+
 
 
 
